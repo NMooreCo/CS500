@@ -12,3 +12,10 @@ Ask the user to input two numbers (num1 and num2). Given those two numbers, mult
 Compile and submit your pseudocode, source code, and screenshots of the application executing the code from parts 1 and 2, the results and GIT repository in a single document (Word is preferred).
 
 Note: Refer to the Module 1 Overview for resources and help using GIT.
+
+## Results
+- [Results markdown](Results.md)
+- [Results word](NickMoore-Module1-Results.docx)
+
+### Refs
+[CS500](../ReadMe.md)

@@ -49,4 +49,8 @@ Total: $13
 Your program submission materials must include your source code and screenshots of the application executing the code and the results. Please refer to the video as a recourse and reference: Python Classes and Objects (With Examples)Links to an external site..
 
 ## Results
-[Portfolio Milestone Results](PortfolioMilestone/Results.md)
+- [Portfolio Milestone Results Markdown](PortfolioMilestone/Results.md)
+- [Portfolio Milestone Results Word](PortfolioMilestone/NickMoore-Module4-Results.docx)
+
+### Refs
+[CS500](../ReadMe.md)
