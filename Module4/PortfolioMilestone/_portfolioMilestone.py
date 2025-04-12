@@ -17,13 +17,11 @@ for i in range(2):
     
     while True:
         try:
-            item_price = input("Enter the item price: ")
-            if not item_price.isnumeric():
-                raise ValueError("Item price must be a number.")                
+            item_price = input("Enter the item price: ")             
             item.item_price = float(item_price)
             break
-        except ValueError as e:
-            print(e)
+        except ValueError:
+            print("Item price must be a number.")
 
     while True:
         try:
