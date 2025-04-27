@@ -7,8 +7,8 @@ def print_menu():
     print("r - Remove item from cart")
     print("c - Change item quantity")
     print("i - Output items' descriptions")
-    print("o - Output shopping cart total")
-    print("q - Quit")    
+    print("o - Output shopping cart")
+    print("q - Quit")   
 
 
 def is_valid_option(option):
@@ -93,7 +93,7 @@ while(menu_option != 'q'):
             except ValueError as e:
                 print(e)
         modified_item = ItemToPurchase(item_name=item_name, item_quantity=int(new_qty))
-        shopping_cart.modify_item(modified_item)    
+        shopping_cart.modify_item(modified_item)  
     
     elif menu_option == 'i':
         print("OUTPUT ITEMS' DESCRIPTIONS")
