@@ -1,4 +1,4 @@
-# Module 5: Critical Thinking Assignment
+# Module 7: Critical Thinking Assignment
 
 ## Creating Python Programs
 ---
@@ -43,7 +43,7 @@ Compile and submit your pseudocode, source code, screenshots of the application 
 
 ## Results
 - [Module 7 Results Markdown](Results.md)
-- [Module 7 Results Word](NickMoore-Module5-Results.docx)
+- [Module 7 Results Word](NickMoore-Module7-Results.docx)
 
 ### Refs
 [CS500](../ReadMe.md)

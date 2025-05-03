@@ -12,3 +12,13 @@ Working with Python, you could either use a predefined function/method or write 
 - *Providing irrelevant commentary.*
 
 ## Answer
+3 citeria I would use to determine wheter to use predefined or user-defined functions/methods are
+1. If a predefined function already completes the task I'm trying to accomplish then I'd use it instead of writing my own. The predefined code here is proven and quick to understand.
+2. If I have logic that will be repeated and there is no predefined function then I'd create my own function. My own function keeps the code clean by cutting out copy/pasta and helps keep the code easy to maintain.
+3. If a predefined function already completes the task but I need to extend it with logging and/or exception handling then I'd create my own function with addtional logic around the predefined function. This allows me to use predefined functions (reasons in #1) and enhance the functionality.
+
+Example of extending sum with logging
+def sum_and_log(values) -> float:
+    total = sum(values)
+    print(f"Sum = {total}")
+    return total
