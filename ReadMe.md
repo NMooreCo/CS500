@@ -8,3 +8,6 @@ This course introduces students to the skills needed to plan and create their ow
 - [**Module 3**](Module3/ReadMe.md)
 - [**Module 4**](Module4/ReadMe.md)
 - [**Module 5**](Module5/ReadMe.md)
+- [**Module 6**](Module6/ReadMe.md)
+- [**Module 7**](Module7/ReadMe.md)
+- [**Module 8**](Module8/ReadMe.md)
