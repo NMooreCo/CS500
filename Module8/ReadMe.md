@@ -182,7 +182,7 @@ Compile and submit your pseudocode, source code, screenshots of the application 
 
 ## Results
 - [Portfolio Results Markdown](Portfolio/Results.md)
-- [Portfolio Results Word](Portfolio/NickMoore-Module6-Results.docx)
+- [Portfolio Results Word](Portfolio/NickMoore-Module8-Results.docx)
 
 ### Refs
 [CS500](../ReadMe.md)
