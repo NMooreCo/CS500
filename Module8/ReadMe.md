@@ -1,4 +1,4 @@
-# Module 5: Critical Thinking Assignment
+# Module 8: Portfolio Project
 
 ## Creating Python Programs
 ---
