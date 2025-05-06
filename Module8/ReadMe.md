@@ -181,8 +181,8 @@ Enter the new quantity: 3
 Compile and submit your pseudocode, source code, screenshots of the application executing the code, the results and GIT repository in a single document (Word is preferred).
 
 ## Results
-- [Portfolio Results Markdown](Portfolio/Results.md)
-- [Portfolio Results Word](Portfolio/NickMoore-Module8-Results.docx)
+- [Portfolio Results Markdown](PortfolioMilestone/Results.md)
+- [Portfolio Results Word](PortfolioMilestone/NickMoore-Module8-Results.docx)
 
 ### Refs
 [CS500](../ReadMe.md)
